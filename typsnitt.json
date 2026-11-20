@@ -1,0 +1,17 @@
+[
+  {
+    "file": "fonts/display.ttf",
+    "family": "Exo 2",
+    "weight": 700,
+    "source_url": "https://fonts.gstatic.com/s/exo2/v26/7cH1v4okm5zmbvwkAx_sfcEuiD8jWfWcPg.ttf",
+    "license": "SIL Open Font License",
+    "sha256": "d29a80ec96f88b2ea92ad574b7ddf53044e77e7ee3498668a930a55add9efcb0"
+  },
+  {
+    "file": "fonts/body.woff2",
+    "family": "Manrope",
+    "source_url": "https://fonts.gstatic.com/s/manrope/v23/xn7gYHE41ni1AdIRggexSg.woff2",
+    "license": "SIL Open Font License",
+    "sha256": "8c2def024c1bf31aacf3624ae3c4d701269b4ec3dc765c04830839f0d36b2d9e"
+  }
+]

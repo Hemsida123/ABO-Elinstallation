@@ -1,0 +1,310 @@
+{
+  "company": {
+    "name": "ABO Elinstallation",
+    "legal": "ABO Elinstallation AB",
+    "org": "559140-0618",
+    "phone": "0411-26 26 00",
+    "tel": "+46411262600",
+    "email": "info@aboelinstallation.se",
+    "address": "Koppargatan 19, 271 39 Ystad",
+    "street": "Koppargatan 19",
+    "postcode": "271 39",
+    "city": "Ystad",
+    "areas": [
+      "Skåne"
+    ],
+    "persons": [
+      "André Nilsson",
+      "Björn Persson",
+      "Ola Holmberg"
+    ],
+    "instagram": "https://www.instagram.com/aboelinstallation/",
+    "facebook": "https://www.facebook.com/ABO-Elinstallation-106887794661907/",
+    "registry_url": "https://elsakerhetsverket.se/kolla-elforetaget?query=5591400618&searchType=company&sortOrder=az&page=1",
+    "registry_verified": true,
+    "registry_checked": "2026-11-20",
+    "jour": "Dygnet runt, årets alla dagar",
+    "source_url": "https://www.aboelinstallation.se/kontakt/"
+  },
+  "about": {
+    "heading": "Tre namn. Ett gemensamt kunnande.",
+    "intro": "André, Björn och Ola är personerna bakom ABO. Från Ystad arbetar vi med elinstallationer i Skåne.",
+    "paragraphs": [
+      "Verksamheten har rötter i NP El & teknik, som André och Björn startade 2017. När Ola anslöt samlades de tre namnen i ABO Elinstallation.",
+      "Erfarenhet från installationsarbete, eldistribution och elkonsultverksamhet möts i företaget. Vi hjälper till från rådgivning och planering till utförande.",
+      "Vi vill hitta en lösning för det enskilda projektet, med tydliga överenskommelser om arbete, tid och kostnad."
+    ],
+    "source_url": "https://www.aboelinstallation.se/om-oss/"
+  },
+  "people": [
+    {
+      "id": "andre-nilsson",
+      "name": "André Nilsson",
+      "role": "Elinstallatör & delägare",
+      "summary": "Bakgrund som elektriker, elingenjör och elkonsult. Startade NP El & teknik tillsammans med Björn.",
+      "source_url": "https://www.aboelinstallation.se/om-oss/"
+    },
+    {
+      "id": "bjorn-persson",
+      "name": "Björn Persson",
+      "role": "Elinstallatör & delägare",
+      "summary": "Bakgrund inom installationsarbete och eldistribution på Österlen. Startade NP El & teknik tillsammans med André.",
+      "source_url": "https://www.aboelinstallation.se/om-oss/"
+    },
+    {
+      "id": "ola-holmberg",
+      "name": "Ola Holmberg",
+      "role": "Elinstallatör & delägare",
+      "summary": "Bakgrund som elektriker och elkonsult, med utbildning inom elingenjörsarbete och elkonstruktion.",
+      "source_url": "https://www.aboelinstallation.se/om-oss/"
+    }
+  ],
+  "services": [
+    {
+      "id": "jour",
+      "title": "Jour",
+      "summary": "Hjälp med akuta elärenden, dygnet runt och årets alla dagar.",
+      "paragraphs": [
+        "När elärendet inte kan vänta finns vår jour att kontakta, oavsett tid på dygnet.",
+        "Ring 0411-26 26 00 så att vi kan prata om situationen och nästa steg.",
+        "För akuta ärenden använder du telefonen. Tid och kostnad stäms av i kontakten med oss."
+      ],
+      "bullets": [
+        "Tillgänglig jour dygnet runt",
+        "Telefonkontakt för akuta ärenden",
+        "Omfattning och förutsättningar stäms av"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    },
+    {
+      "id": "service",
+      "title": "Service & felsökning",
+      "summary": "Felsökning, reparationer och förebyggande underhåll av elanläggningar.",
+      "paragraphs": [
+        "Vi hjälper till med både löpande drift och fel som behöver undersökas.",
+        "Servicearbetet omfattar felsökning, reparationer och förebyggande underhåll.",
+        "Beskriv vad som inte fungerar och vilken typ av fastighet det gäller när du kontaktar oss."
+      ],
+      "bullets": [
+        "Felsökning och reparation",
+        "Drift av elanläggningar",
+        "Förebyggande underhåll"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    },
+    {
+      "id": "elbesiktning",
+      "title": "Elbesiktning",
+      "summary": "Besiktning av elanläggningen med protokoll och förslag på åtgärder.",
+      "paragraphs": [
+        "Vi utför elbesiktning av din elanläggning och dokumenterar resultatet i ett protokoll.",
+        "Om besiktningen visar brister får du förslag på lämpliga åtgärder.",
+        "Berätta om fastigheten och vad du vill få undersökt, så pratar vi igenom uppdraget."
+      ],
+      "bullets": [
+        "Besiktning av elanläggning",
+        "Besiktningsprotokoll",
+        "Åtgärdsförslag när brister upptäcks"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    },
+    {
+      "id": "elbesiktning-vid-bostadskop",
+      "title": "Elbesiktning vid bostadsköp",
+      "summary": "Genomgång av elanläggningen i samband med köp eller överlåtelse av en bostad.",
+      "paragraphs": [
+        "När en bostad byter ägare kan elanläggningen vara en del att undersöka närmare.",
+        "Vi utför elbesiktningar i samband med bostadsköp och överlåtelse.",
+        "Kontakta oss med uppgifter om bostaden och önskat datum för att stämma av förutsättningarna."
+      ],
+      "bullets": [
+        "Bostadsköp och överlåtelse",
+        "Uppdraget anpassas efter bostaden",
+        "Datum stäms av med oss"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    },
+    {
+      "id": "elinstallationer",
+      "title": "Elinstallationer",
+      "summary": "Installationer vid nybyggnation, renovering och ombyggnad av fastigheter.",
+      "paragraphs": [
+        "Vi arbetar med elinstallationer i både nya och befintliga fastigheter.",
+        "Det kan gälla en ny villa eller en äldre byggnad som ska byggas om.",
+        "Från planering till utförande tar vi utgångspunkt i projektets behov och de lösningar som passar det."
+      ],
+      "bullets": [
+        "Nyinstallation",
+        "Renovering och ombyggnad",
+        "Planering och utförande"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    },
+    {
+      "id": "belysning",
+      "title": "Belysning",
+      "summary": "Planering och montering av belysning, inne och ute.",
+      "paragraphs": [
+        "Ljus ska fungera med både rummet och hur det används.",
+        "Vi hjälper dig att planera belysningen och utför monteringen, såväl inomhus som utomhus.",
+        "Berätta om miljön, vad du vill belysa och vilken känsla eller funktion du söker."
+      ],
+      "bullets": [
+        "Planering av belysning",
+        "Montering av armaturer",
+        "Inomhus- och utomhusmiljöer"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    },
+    {
+      "id": "teleinstallationer",
+      "title": "Tele & datanätverk",
+      "summary": "Datanätverk, ljud, bild, tv och passagesystem.",
+      "paragraphs": [
+        "Vi arbetar med flera typer av teleinstallationer för fastigheter och verksamheter.",
+        "Uppdragen kan omfatta datanätverk, ljud och bild, tv-installationer eller passagesystem.",
+        "Beskriv vad anläggningen ska användas till och vilka funktioner som behöver hänga ihop."
+      ],
+      "bullets": [
+        "Datanätverk",
+        "Ljud, bild och tv",
+        "Passagesystem"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    },
+    {
+      "id": "laddinfrastruktur",
+      "title": "Laddinfrastruktur",
+      "summary": "Laddboxar för villan, garaget eller bostadsrättsföreningen.",
+      "paragraphs": [
+        "Vi installerar laddboxar för fordon och hjälper dig att välja en lösning för behovet.",
+        "En enskild laddpunkt vid ett garage och flera laddplatser i en BRF har olika förutsättningar.",
+        "Vi arbetar från planering till en anläggning som är färdig att använda."
+      ],
+      "bullets": [
+        "En eller flera laddpunkter",
+        "Villa, garage och BRF",
+        "Planering, val och installation"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    },
+    {
+      "id": "solceller",
+      "title": "Solceller",
+      "summary": "Kompletta solcellsinstallationer med hjälp att välja bland alternativen.",
+      "paragraphs": [
+        "Vi utför kompletta installationer av solceller.",
+        "När många alternativ finns hjälper vi dig att orientera dig och välja en lösning för projektet.",
+        "Berätta om fastigheten och dina planer, så går vi vidare utifrån de faktiska förutsättningarna."
+      ],
+      "bullets": [
+        "Val av lösning",
+        "Planering av installation",
+        "Komplett solcellsinstallation"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    },
+    {
+      "id": "smarta-hem",
+      "title": "Smarta hem",
+      "summary": "Styrning som gör belysning och andra funktioner lättare att använda.",
+      "paragraphs": [
+        "Vill du styra belysningen med rösten eller garageporten från telefonen?",
+        "Vi hjälper dig även med lösningar som låter ytterbelysningen tändas när det mörknar.",
+        "Tillsammans väljer vi funktionerna och arbetar vidare från planering till driftsättning."
+      ],
+      "bullets": [
+        "Styrning av belysning",
+        "Funktioner för hem och garage",
+        "Planering och driftsättning"
+      ],
+      "source_url": "https://www.aboelinstallation.se/tjanster/"
+    }
+  ],
+  "process": [
+    {
+      "title": "Berätta vad du behöver",
+      "text": "Beskriv arbetet, fastigheten och dina önskemål. Bilder och ritningar kan du bifoga i ett mejl."
+    },
+    {
+      "title": "Vi går igenom förutsättningarna",
+      "text": "Vi pratar om omfattning, lösning och planering. Pris och tid behöver stämmas av för just ditt uppdrag."
+    },
+    {
+      "title": "Från plan till utförande",
+      "text": "När uppdraget är överenskommet arbetar vi vidare med installationen eller servicen utifrån det ni har bestämt."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Vilket område arbetar ni i?",
+      "a": "ABO Elinstallation utgår från Ystad och arbetar med elinstallationer i Skåne. Hör av dig med adress och uppdrag så stämmer vi av förutsättningarna."
+    },
+    {
+      "q": "Hur får jag hjälp med ett akut elärende?",
+      "a": "Ring 0411-26 26 00. Vår jour är tillgänglig dygnet runt, årets alla dagar. Tid och kostnad stäms av i samtalet. Använd telefonen för akuta ärenden."
+    },
+    {
+      "q": "Hjälper ni både privatpersoner och företag?",
+      "a": "Ja. Du kan kontakta oss som privatperson, företag eller bostadsrättsförening. Vi anpassar genomgången efter uppdraget."
+    },
+    {
+      "q": "Kan jag få pris för ett bestämt arbete?",
+      "a": "Ja, kontakta oss med en beskrivning av arbetet för att diskutera offert. För löpande arbete och jour behöver aktuella villkor och kostnader stämmas av med oss."
+    },
+    {
+      "q": "Vad är bra att skicka med i en förfrågan?",
+      "a": "Beskriv vad du behöver hjälp med, var arbetet ska utföras och om du har önskemål om tid. Bilder eller ritningar kan du bifoga i mejlet."
+    },
+    {
+      "q": "Är formuläret en bekräftad bokning?",
+      "a": "Nej. Formuläret sammanställer en förfrågan i ditt eget mejlprogram. Du granskar och skickar själv. Ett besök eller uppdrag är bokat först när du har kommit överens med ABO."
+    },
+    {
+      "q": "Var kan jag kontrollera företagets registrering?",
+      "a": "I Elsäkerhetsverkets tjänst Kolla elföretaget kan du söka på ABO Elinstallation AB eller organisationsnummer 559140-0618 och se registrerade verksamhetstyper."
+    }
+  ],
+  "pricing": {
+    "heading": "Priset börjar med ditt uppdrag.",
+    "paragraphs": [
+      "Arbetets omfattning och förutsättningar behöver vara tydliga för att vi ska kunna prata om pris. Kontakta oss med din beskrivning för att diskutera offert.",
+      "För löpande arbete, utkörning och jour stämmer du av aktuella priser och villkor direkt med oss.",
+      "Du kan kontakta oss som privatperson, företag eller bostadsrättsförening. Ange gärna vilken typ av kund du är i förfrågan."
+    ],
+    "source_url": "https://www.aboelinstallation.se/prislista/",
+    "audiences": [
+      {
+        "id": "privatperson",
+        "title": "Privatperson",
+        "text": "Beskriv arbetet och fastigheten. Vi pratar om vad som ingår och vilka villkor som gäller för uppdraget.",
+        "source_url": "https://www.aboelinstallation.se/kopia-av-prislista/"
+      },
+      {
+        "id": "foretag",
+        "title": "Företag & BRF",
+        "text": "Beskriv verksamheten, anläggningen och omfattningen. Tillsammans stämmer vi av underlaget för uppdraget.",
+        "source_url": "https://www.aboelinstallation.se/kopia-av-prislista-privat/"
+      }
+    ],
+    "notes": "Inga prisbelopp, ROT-satser eller debiteringsregler återges. Originalprislistorna är odaterade och live företagssida skiljer sig från sökcache. Dagtid i prislistan är debiteringskategori, inte verifierade kontorsöppettider. Jourkategorier överlappar fredagseftermiddag; publicera inget exakt schema."
+  },
+  "quality": {
+    "heading": "Registrerat hos Elsäkerhetsverket.",
+    "paragraphs": [
+      "ABO Elinstallation AB finns i Elsäkerhetsverkets register över elinstallationsföretag.",
+      "I Kolla elföretaget kan du se företagets registrerade verksamhetstyper. Sök på organisationsnummer 559140-0618."
+    ],
+    "registry_url": "https://elsakerhetsverket.se/kolla-elforetaget?query=5591400618&searchType=company&sortOrder=az&page=1",
+    "verified": true,
+    "checked": "2026-11-20",
+    "notes": "Verifierad företagsregistrering, inte verifierad personlig auktorisation eller påstående om alla tänkbara elarbeten. Inga myndighetslogotyper används som certifieringsmärke."
+  },
+  "privacy": {
+    "paragraphs": [
+      "Den här versionen har inget anslutet formulärsystem. Uppgifterna du skriver används för att förbereda ett mejlutkast till info@aboelinstallation.se. Du granskar och skickar själv från ditt mejlprogram.",
+      "Texten i formuläret finns endast i den öppna sidan och sparas inte i webbläsarens lokala lagring. Den här sidan använder ingen analys, annonsering eller inbäddad karta. Bilder och typsnitt ingår i filpaketet.",
+      "När du öppnar en extern länk eller skickar ett mejl använder du den tjänstens funktioner. Frågor om en skickad förfrågan kan ställas till ABO Elinstallation AB."
+    ]
+  }
+}

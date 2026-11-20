@@ -1,0 +1,264 @@
+{
+  "checked": "2026-11-20",
+  "company": {
+    "name": "ABO Elinstallation",
+    "legal": "ABO Elinstallation AB",
+    "org": "559140-0618",
+    "phone": "0411-26 26 00",
+    "tel": "+46411262600",
+    "email": "info@aboelinstallation.se",
+    "address": "Koppargatan 19, 271 39 Ystad",
+    "street": "Koppargatan 19",
+    "postcode": "271 39",
+    "city": "Ystad",
+    "areas": [
+      "Skåne"
+    ],
+    "persons": [
+      "André Nilsson",
+      "Björn Persson",
+      "Ola Holmberg"
+    ],
+    "instagram": "https://www.instagram.com/aboelinstallation/",
+    "facebook": "https://www.facebook.com/ABO-Elinstallation-106887794661907/",
+    "registry_url": "https://elsakerhetsverket.se/kolla-elforetaget?query=5591400618&searchType=company&sortOrder=az&page=1",
+    "registry_verified": true,
+    "registry_checked": "2026-11-20",
+    "jour": "Dygnet runt, årets alla dagar",
+    "source_url": "https://www.aboelinstallation.se/kontakt/"
+  },
+  "source_pages": [
+    "https://www.aboelinstallation.se/",
+    "https://www.aboelinstallation.se/tjanster/",
+    "https://www.aboelinstallation.se/om-oss/",
+    "https://www.aboelinstallation.se/kontakt/",
+    "https://www.aboelinstallation.se/boka-elektriker/",
+    "https://www.aboelinstallation.se/prislista/",
+    "https://www.aboelinstallation.se/kopia-av-prislista-privat/",
+    "https://www.aboelinstallation.se/kopia-av-prislista/"
+  ],
+  "registry": {
+    "url": "https://elsakerhetsverket.se/kolla-elforetaget?query=5591400618&searchType=company&sortOrder=az&page=1",
+    "num_hits": 1,
+    "matched_company": {
+      "addresses0": [
+        {
+          "zipcode": "27139",
+          "city": "Ystad",
+          "streetAddress": "Koppargatan 19"
+        }
+      ],
+      "sortableName": "ABO Elinstallation AB",
+      "cities": [
+        "Ystad"
+      ],
+      "dsid": "2fe46c21-e47d-11f1-9ae3-7fd29760bbe8",
+      "organizationNumber": "559140-0618",
+      "isForeignIdentity": false,
+      "onlyCableLaying": false,
+      "headOffice": {
+        "zipcode": "27139",
+        "country": "Sverige",
+        "website": "https://www.aboelinstallation.se/",
+        "city": "Ystad",
+        "streetAddress": "Koppargatan 19",
+        "phone": "0411-262600",
+        "email": "info@aboelinstallation.se"
+      },
+      "organizationNumberAlternative": "5591400618",
+      "cleanName": "abo elinstallation ab",
+      "corporateForm": "Aktiebolag",
+      "activities": [
+        "2",
+        "5",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "name": "ABO Elinstallation AB",
+      "categories": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "15",
+        "12",
+        "8",
+        "14"
+      ],
+      "dstimestamp": 1795136175074,
+      "id": 11196978
+    },
+    "activity_groups": [
+      {
+        "types": [
+          {
+            "name": "Övriga högspänningsanläggningar",
+            "id": 3
+          },
+          {
+            "name": "Elnät",
+            "id": 4
+          },
+          {
+            "name": "Bandrift",
+            "id": 6
+          }
+        ],
+        "name": "Högspänning",
+        "id": 1
+      },
+      {
+        "types": [
+          {
+            "name": "Bostäder",
+            "id": 2
+          },
+          {
+            "name": "Elproduktionsanläggningar",
+            "id": 5
+          },
+          {
+            "name": "Elnät",
+            "id": 7
+          },
+          {
+            "name": "Övriga anläggningar för användning av el",
+            "id": 8
+          },
+          {
+            "name": "Allmänna och offentliga utrymmen",
+            "id": 13
+          },
+          {
+            "name": "Bandrift",
+            "id": 1
+          }
+        ],
+        "name": "Lågspänning",
+        "id": 2
+      },
+      {
+        "types": [
+          {
+            "name": "Maskiner",
+            "id": 9
+          },
+          {
+            "name": "Hissar, portar och rulltrappor",
+            "id": 11
+          },
+          {
+            "name": "Värme, kyla och ventilation",
+            "id": 10
+          }
+        ],
+        "name": "Begränsad lågspänning",
+        "id": 3
+      },
+      {
+        "types": [
+          {
+            "name": "Kabelförläggning (i koncessionspliktiga nät)",
+            "id": 12
+          }
+        ],
+        "name": "Särskilda verksamhetstyper",
+        "id": 4
+      }
+    ],
+    "private_categories": [
+      {
+        "name": "Belysning, strömbrytare och uttag",
+        "id": 1
+      },
+      {
+        "name": "Elcentral och jordfelsbrytare",
+        "id": 2
+      },
+      {
+        "name": "Fast anslutna produkter (tvättmaskin, spis m.m.)",
+        "id": 3
+      },
+      {
+        "name": "Garageportar, hissar och markiser",
+        "id": 4
+      },
+      {
+        "name": "Värme, kyla och ventilation",
+        "id": 5
+      },
+      {
+        "name": "Övriga typer av elinstallationer",
+        "id": 6
+      },
+      {
+        "name": "Laddstation och laddbox för elbil",
+        "id": 8
+      },
+      {
+        "name": "Solceller och batterilager ",
+        "id": 7
+      }
+    ],
+    "allowed_public_claim": "Registrerat hos Elsäkerhetsverket.",
+    "limit": "No personal authorization claim, endorsement badge, blanket all-work claim or future guarantee."
+  },
+  "form_requirements": {
+    "contact_required": [
+      "name",
+      "email",
+      "message",
+      "consent"
+    ],
+    "booking_required": [
+      "name",
+      "email",
+      "message",
+      "consent"
+    ],
+    "phone": "optional",
+    "address_dates": "optional",
+    "original_uploads": 4,
+    "delivered_behavior": "Mail draft only, attachments in visitors own mail client, no sent/received/confirmed-booking claim."
+  },
+  "known_contradictions": [
+    {
+      "item": "Company name-change year",
+      "original": "About page says NP El & teknik became ABO in2021 when Ola joined.",
+      "registry_index": "Ratsit lists firm name registration2020-10-07.",
+      "decision": "Use roots2017 and later three-owner brand, no precise name-change year in customer copy."
+    },
+    {
+      "item": "Original price version",
+      "live_company": "645kr/h,75kr/mil,750dayjour,1095evening,1325night as read2026-11-20.",
+      "cached_company": "Web index630kr/h,70kr/mil,750dayjour,1065evening,1290night.",
+      "private": "807kr/h,94kr/mil,938dayjour,1365evening,1653night; undated.",
+      "decision": "No copied current amounts/taxrates; ask company for current quote/terms."
+    },
+    {
+      "item": "Jour price time windows",
+      "original": "Friday16–20 evening overlaps Friday16–Monday07 night/weekend.",
+      "decision": "Do not publish exact billing time windows or claim openinghours; retain24/7 availability as company statement."
+    }
+  ],
+  "excluded": [
+    "Original social review quotes not independently verified on social platforms; omit rather than invent ratings.",
+    "Combined40+years counter is undated self-report; avoid calculated totals.",
+    "No free-quote assertion because original says contact for quote without explicit free promise.",
+    "No exact response/arrival timing, discounted guarantee, prices or tax eligibility guidance.",
+    "No manual electrical instructions."
+  ],
+  "source_limitations": [
+    "Original pages are company self-description for services/person roles/history; government register verifies legal identity and registration.",
+    "Ratsit/Allabolag indexed pages used as corroboration via web tool, direct curl returns403; not archived as successful originalHTML.",
+    "No project/client identities or results invented; image provenance handled separately."
+  ]
+}
